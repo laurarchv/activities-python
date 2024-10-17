@@ -1,4 +1,4 @@
-# Kauany Larissa 2°c
+# Laurinha 2°c
 
 soma = 0
 
