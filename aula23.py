@@ -1,4 +1,4 @@
-# Kauany Larissa 2°C
+# Laura Bezerra 2°C
 
 # Solicita ao usuário um número
 numero = int(input("Digite um número para ver sua tabuada: "))
